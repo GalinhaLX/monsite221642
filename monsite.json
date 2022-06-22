@@ -1,17 +1,12 @@
 {
 	"site": [
 		{
-			"ref": "b",
-			"category": "contact",
-			"tpl": "WORK-BULMA-MAVO-includeTpl.js",
-			"visibility": true,
+			"visibility": false,
 			"bloc_a": [
 				{}
 			],
 			"bloc_b": [
-				{
-					"cat_age": "qsdsqdsds"
-				}
+				{}
 			],
 			"bloc_c": [
 				{
@@ -28,7 +23,9 @@
 					]
 				}
 			],
-			"bloc_d": []
+			"bloc_d": [
+				"\n                                "
+			]
 		}
 	]
 }
